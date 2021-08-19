@@ -1,0 +1,1263 @@
+commit d0b172322bb67499f5a233f07c050ba6f94689f2
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Aug 15 22:00:20 2021 -0500
+
+    Changed exercises titles
+
+ 4 files changed, 25 insertions(+), 25 deletions(-)
+
+commit bce0682bf2e7b3a82e0dcd37345d73a760d4c484
+Merge: a41962f9 6840c9c0
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Aug 14 13:44:26 2021 -0500
+
+    Merge branch 'master' into 61_quiz10
+
+commit 1a66f92fb7cb3c8e02b8e8c69c4f469a92e53108
+Merge: d141e2e1 7e974420
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Aug 14 12:17:18 2021 -0500
+
+    Merge branch 'master' into 54_quiz2
+
+commit 9f9ff956396728abced959e6e51500162a4f0022
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Aug 14 10:29:24 2021 -0500
+
+    Changed qExtra2 using tabbed directive
+
+ 2 files changed, 77 insertions(+), 76 deletions(-)
+
+commit 3e7fe4b046cca1029af8887a3322b3cbf03a4787
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Aug 14 10:23:25 2021 -0500
+
+    Changed qExtra1 using tabbed directive
+
+ 2 files changed, 107 insertions(+), 109 deletions(-)
+
+commit 19ab9a6086f488997c1ce0f3aac0d0d823a55bb6
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Aug 12 17:35:18 2021 -0500
+
+    Changed q14 structure using tabbed drective
+
+ 1 file changed, 67 insertions(+), 67 deletions(-)
+
+commit 69929abe8a5237fc4de55c9c79e74cb5e9579e0b
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Aug 12 12:40:23 2021 -0500
+
+    Changed q13 structure using tabbed directive
+
+ 1 file changed, 115 insertions(+), 116 deletions(-)
+
+commit 4a74b5cba15714520a9064703c3fea721ee1c70c
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Aug 12 12:31:27 2021 -0500
+
+    Changed q12 structure using tabbed directive
+
+ 1 file changed, 181 insertions(+), 185 deletions(-)
+
+commit 85d816911a67139100a04c71db0bf566b020fefd
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Aug 12 12:14:55 2021 -0500
+
+    Changed q11 structure using tabbed directive
+
+ 2 files changed, 223 insertions(+), 228 deletions(-)
+
+commit a41962f969b867fceca65caec1e18b7edf10d577
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Aug 11 18:13:52 2021 -0500
+
+    Changed q10 structure using tabbed directive
+
+ 2 files changed, 371 insertions(+), 383 deletions(-)
+
+commit 3ce4e720741afe17b0c43bd5ff829bf6291c1ddd
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Aug 11 18:04:26 2021 -0500
+
+    Changed q9 structure using tabbed directive
+
+ 1 file changed, 491 insertions(+), 512 deletions(-)
+
+commit 6f960763f87203166a58addac70d4bff82a4bf25
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Aug 10 21:10:08 2021 -0500
+
+    changed q7 structure using tabbed directive
+
+ 1 file changed, 275 insertions(+), 341 deletions(-)
+
+commit f723d282f2955738840ead18c7c79698ea59fadf
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Aug 10 20:52:23 2021 -0500
+
+    changed q6 structure using tabbed directive
+
+ 1 file changed, 294 insertions(+), 301 deletions(-)
+
+commit 42449097fbeb3bebd9f8d9c5fae1259dbf38f24d
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Aug 10 17:15:30 2021 -0500
+
+    changed q5 structure using tabbed directive
+
+ 1 file changed, 190 insertions(+), 193 deletions(-)
+
+commit ab52a0c1e16b51a6f261139d0ff6067e5bdaf670
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Aug 10 16:41:10 2021 -0500
+
+    Change q4 structure using tabbed directive
+
+ 1 file changed, 142 insertions(+), 145 deletions(-)
+
+commit 37bac530b68cf00b5fa2edbec03407d2dbaa3f83
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Aug 9 16:00:54 2021 -0500
+
+    Grouped q3 exercises with tabbed directive
+
+ 2 files changed, 136 insertions(+), 138 deletions(-)
+
+commit d141e2e140e3a3cfbce2844d5fe15a744c89819c
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Aug 9 11:33:45 2021 -0500
+
+    little modification to q2 test
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+commit 7913873e04b57fdd128af02d083794e26cc480f8
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Aug 9 11:29:17 2021 -0500
+
+    Grouped q2 exercises with tabbed directive
+
+ 1 file changed, 214 insertions(+), 219 deletions(-)
+
+commit bc7499c4b99adab91ea1426b1030e12cff8e26bd
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Aug 5 14:19:55 2021 -0500
+
+    new test structure for TWP18
+
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+
+commit 0c64475b90cc3e82aecf44d3283648a1bcc7410a
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Aug 5 10:18:51 2021 -0500
+
+    Changed quizzes tests structure
+
+ 14 files changed, 83 insertions(+), 109 deletions(-)
+
+commit 54a4968e182fd333c297c2750a14713b2cd61996
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Aug 3 13:41:25 2021 -0500
+
+    modified quiz 1 test
+
+ 1 file changed, 18 insertions(+), 14 deletions(-)
+
+commit 1db2b7abe4e37b654d721d8e89d845d9992bd10c
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Aug 3 13:06:34 2021 -0500
+
+    tabbed quiz 1
+
+ 1 file changed, 209 insertions(+), 217 deletions(-)
+
+commit 59aab52df64771d6b6ed0c571a7fa491154fcfa5
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Aug 3 12:35:40 2021 -0500
+
+    formatted with black
+
+ 1 file changed, 180 insertions(+), 313 deletions(-)
+
+commit b1046a9b84c6e6c1baf4bbfc601e8e31469d7ac4
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Aug 1 09:27:17 2021 -0500
+
+    Apply suggestions from code review
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+commit 8aa43163cf64f7ed820f3827aba27fcd2dabd2d8
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jul 31 14:22:27 2021 -0500
+
+    pytest vcr decorator for test_Reto01
+
+ 3 files changed, 22342 insertions(+), 8 deletions(-)
+
+commit 85dd2669302b46077fa61256d962202c8691232f
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 30 18:04:00 2021 -0500
+
+    chromium for test
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit 367264162798c018b09a8c182f078d72cf6b8d59
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 30 17:46:47 2021 -0500
+
+    browser to chromium
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 58286932f5274851595fd64207095de3fcb2d953
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 30 17:30:37 2021 -0500
+
+    Proof of concept vcr record
+
+ 6 files changed, 144 insertions(+), 42 deletions(-)
+
+commit dff410ef0ed3af5a81590efce61a1955e248ab1f
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 30 10:34:28 2021 -0500
+
+    hidden print statements added
+
+ 4 files changed, 19 insertions(+)
+
+commit 73bc3db68269248ad2e6bd57f99bbbb80cf0ea20
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jul 29 22:26:51 2021 -0500
+
+    updated ac_l33_9
+
+ 1 file changed, 18 insertions(+), 2 deletions(-)
+
+commit f0eb5585b8d33ec608fe2e32b903159031ee73e4
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jul 29 20:43:26 2021 -0500
+
+    added price to output
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 86235dabe9cf3c11d4e3276accc9cb6413d100f4
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jul 29 10:25:33 2021 -0500
+
+    TWP23 instructions changed
+
+ 1 file changed, 7 insertions(+), 12 deletions(-)
+
+commit 82852ab9408a991bdc923ebc32e051b919d4fa1b
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jul 29 09:49:41 2021 -0500
+
+    Reduced 10 minutes wait for 10 secs
+
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+
+commit 06b8524c3fd33808863cad598708ab53213d3db4
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jul 27 12:02:45 2021 -0500
+
+    complete reto02 test
+
+ 1 file changed, 23 insertions(+)
+
+commit ad8705c03ecff6d58a9f59f7f99220780f8bc605
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jul 27 11:56:39 2021 -0500
+
+    added final exercise in Pergamino
+
+ 1 file changed, 61 insertions(+)
+
+commit 90474bcf145a5196b12cf8772dcd0d65a48f7d58
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Jul 25 21:04:27 2021 -0500
+
+    deleted stuff from index
+
+ 1 file changed, 8 deletions(-)
+
+commit 89a69be7ce1a02a820995404414addba5dfd175c
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Jul 25 20:35:48 2021 -0500
+
+    little change to challenges tests
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit df2755e3199eb04449d546d58412a384cd74d2de
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Jul 25 20:32:44 2021 -0500
+
+    moved challenges to their own folder
+
+ 3 files changed, 2 insertions(+), 2 deletions(-)
+
+commit af790ec7c0da8e215ff1c27a57af0b91256be873
+Merge: 9d8298c7 6914c510
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Jul 25 20:00:32 2021 -0500
+
+    Merge branch 'master' into 14_Pergamino
+
+commit 9d8298c7f4ed6238ce91c22e8ab6601a8e488414
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Jul 25 14:20:52 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: angelasofiaremolinagutierrez <angela.remolina.2019@upb.edu.co>
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+commit b9b3beb59e84f627a0f1ee0cb51b330fbce2dbc4
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jul 20 20:09:28 2021 -0500
+
+    Apply suggestions from review
+
+ 1 file changed, 74 insertions(+), 50 deletions(-)
+
+commit 5bd5d8f9a94cb2d70dff1f7c816def1a054b3949
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jul 20 10:11:16 2021 -0500
+
+    added proxy to exercises that failed
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit a0de155185286ccf7e5bff89811a87525c5dfde2
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jul 17 13:31:35 2021 -0500
+
+    finished r_02 and added web test
+
+ 2 files changed, 103 insertions(+)
+
+commit dd7f7d4ae4d840b7d0a153b89c38202b1d6001fb
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jul 17 11:45:02 2021 -0500
+
+    fixed web test to work in Chrome
+
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+
+commit 8442045cd499e4e2ad22d349163b4f91a5d5a404
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jul 15 11:11:52 2021 -0500
+
+    added half the exercises of Pergamino challenge
+
+ 2 files changed, 183 insertions(+)
+
+commit 10fe962c6ae3feab275758105775d74c33436634
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Jul 14 14:16:39 2021 -0500
+
+    finished playwright test for Hangman challenge
+
+ 2 files changed, 47 insertions(+), 10 deletions(-)
+
+commit 19e722a1a67b9fcfbc02fed218908bb021b9d4c3
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jul 13 20:32:42 2021 -0500
+
+    half of Reto01 playwright test
+
+ 1 file changed, 61 insertions(+)
+
+commit b9170772ca72fc8153dfa9b6accdc97177effc01
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jul 13 14:36:22 2021 -0500
+
+    finish hangman challenge
+
+ 1 file changed, 116 insertions(+), 4 deletions(-)
+
+commit 8477fef02c198e3c80d7fd3267245114fc701827
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Jul 12 15:34:20 2021 -0500
+
+    first 5 ac for Hangman challenge
+
+ 2 files changed, 205 insertions(+)
+
+commit 1aacd278d1c4d2fc161120688fa9e5cd8cd71ee9
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 9 10:58:50 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: angelasofiaremolinagutierrez <angela.remolina.2019@upb.edu.co>
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 13f87cb3d9fc7f7fa3999bdd0044ca576e4487f0
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Jul 7 11:38:44 2021 -0500
+
+    blank line to avoid formatting error
+
+ 1 file changed, 1 insertion(+)
+
+commit 84906e3cab1d55e53de92c558a0bdbfe9e6a0d34
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Jul 7 11:22:43 2021 -0500
+
+    Added university domains api exercises
+
+ 1 file changed, 64 insertions(+)
+
+commit 89c312eae71552c5f586f2ef86706d561add9758
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jul 6 17:42:12 2021 -0500
+
+    included brython module for json indent
+
+ 1 file changed, 13 insertions(+), 18 deletions(-)
+
+commit fc2ef13625aee9315e9bb59749432c6f85ebf489
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Jul 5 11:27:22 2021 -0500
+
+    comments to starbuzz exercise
+
+ 1 file changed, 16 insertions(+), 15 deletions(-)
+
+commit 52c862bdbae1df15e70c4fc4bc6dfd14d6b1a0f7
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Jul 5 10:36:53 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: Ybrahin Martinez <martinez.ybrahin@gmail.com>
+
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+
+commit 512dac5d66f6d5f30aca99d24771d3156fdd6e6e
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jul 3 19:27:06 2021 -0500
+
+    second exercise with brython
+
+ 1 file changed, 33 insertions(+), 15 deletions(-)
+
+commit b9406a08dbd0a8dcf5fa597853cf73eaf9707061
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jul 3 13:47:04 2021 -0500
+
+    brython module on one exercise
+
+ 1 file changed, 30 insertions(+), 6 deletions(-)
+
+commit 0ce98eb2d955c32e67bb484a0254347fb2311aaf
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jul 3 12:15:58 2021 -0500
+
+    image extension changed
+
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 43c2df3ff098fb47e1151093f64ee3cdb9afc7ca
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 22:22:49 2021 -0500
+
+    format
+
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+
+commit 0d12e6ec67f906b47fceba20b02f315d685ebbee
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 22:02:34 2021 -0500
+
+    typos and image
+
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+
+commit 31e98d134961d481aa6013104fcaa4a8e3048a59
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 18:39:28 2021 -0500
+
+    typos fixed
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit e6cbcd3f6e2a6aeb8d06e6e46f7305341a154468
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 12:36:20 2021 -0500
+
+    fixed typos and made image appear
+
+ 1 file changed, 11 insertions(+), 11 deletions(-)
+
+commit 0e2da070777b7ce25e4d5e03774bf89cf0215c15
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 12:04:47 2021 -0500
+
+    moved editable datafiles below activecodes
+
+ 1 file changed, 42 insertions(+), 35 deletions(-)
+
+commit 5f0438bb1c392056d214e98a7437d52314f18a5e
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 11:32:21 2021 -0500
+
+    add lower() function to Concentracion exercises
+
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+
+commit a11dc4ac10f2ee10ee62cf52d745eb039bcb19f0
+Merge: e64dff8b c8746a3d
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 11:17:52 2021 -0500
+
+    Merge branch 'PyAr:master' into TWP18_fix
+
+commit e64dff8b34e617ab82334d8197dda16c7788dd1b
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jul 2 11:15:31 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: Ybrahin Martinez <martinez.ybrahin@gmail.com>
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit 3d90239f4e4c69e538fc7ed28aebfc9ed701165b
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Jun 30 19:34:37 2021 -0500
+
+    fixed this TWP38 lecture
+
+ 1 file changed, 87 insertions(+), 90 deletions(-)
+
+commit 7cd2f3cf83c8b2b500ce35c42e7ba66001483ee5
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Jun 30 11:38:41 2021 -0500
+
+    Little changes final exercise based on Angela's review
+
+ 1 file changed, 10 insertions(+), 9 deletions(-)
+
+commit 8ce6b7c8e31ee368bf690462ac69ca080288f888
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 29 10:27:45 2021 -0500
+
+    fixed last exercise
+
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+
+commit d69766c7bcf6fcf79434beea856c0d357efe3cfd
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 29 09:56:07 2021 -0500
+
+    Add review changes
+    
+    Co-authored-by: angelasofiaremolinagutierrez <angela.remolina.2019@upb.edu.co>
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit cc4f8ba22c11cdbe30a76c098eb986608d9a18ed
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Jun 28 20:09:11 2021 -0500
+
+    updated the lecture
+
+ 1 file changed, 79 insertions(+), 78 deletions(-)
+
+commit 35ebda261246510711f6ca0c187236cc587b9edb
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Jun 28 14:18:58 2021 -0500
+
+    fixed typos
+
+ 1 file changed, 12 insertions(+), 15 deletions(-)
+
+commit c35bad43f6f46acbe0630054f757a5e5aefe89a7
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Jun 28 11:36:52 2021 -0500
+
+    fixed TWP30 lecture
+
+ 1 file changed, 129 insertions(+), 148 deletions(-)
+
+commit c99769c69deaface339865f0c3963b45cca906aa
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jun 25 13:56:30 2021 -0500
+
+    web test for l45_5
+
+ 1 file changed, 49 insertions(+), 1 deletion(-)
+
+commit db563a3e8d4d00c26c5dcf5f9655dcd54cccf28c
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jun 25 13:55:56 2021 -0500
+
+    Added TasteDive exercises
+
+ 1 file changed, 165 insertions(+)
+
+commit 8502bf135c4ee270d7205a1f1ffde3136cea5426
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jun 25 09:45:08 2021 -0500
+
+    Added Reddit exercise
+
+ 1 file changed, 82 insertions(+), 44 deletions(-)
+
+commit af2470c145e4624ca73b4c995148101bc260c893
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jun 24 11:30:09 2021 -0500
+
+    final exercise now in activecode
+
+ 2 files changed, 3752 insertions(+), 9 deletions(-)
+
+commit 7ce1a6093f07652e82d44fc47213e9aea8057abf
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Wed Jun 23 20:03:23 2021 -0500
+
+    added example and fixed typo
+
+ 1 file changed, 25 insertions(+), 19 deletions(-)
+
+commit 6d8fcdd5a87c5b0a27eeaa1df6038de183b4dc5b
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 22 17:49:26 2021 -0500
+
+    format with black
+
+ 1 file changed, 20 insertions(+), 20 deletions(-)
+
+commit 1f08721b58c40cd327c4361f11bce4781d2921f4
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 22 12:49:35 2021 -0500
+
+    added web test for activecode
+
+ 1 file changed, 18 insertions(+)
+
+commit ef48c685bb0efb487a3c6f1ba5b59b9b3ef65062
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 22 12:18:38 2021 -0500
+
+    added web test for activecode
+
+ 2 files changed, 50 insertions(+), 12 deletions(-)
+
+commit efc034569981330e0e203c8b3c62fadef724f0c2
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 22 10:40:34 2021 -0500
+
+    format
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit af39ab2cf295f04f94560395835d29739d5c7267
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 21 15:31:00 2021 -0500
+
+    changed test
+
+ 1 file changed, 8 insertions(+), 12 deletions(-)
+
+commit e9bb87ac2ca9e2113026066697c1670e0243bae6
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 21 14:26:29 2021 -0500
+
+    update
+
+ 1 file changed, 3 deletions(-)
+
+commit bef1aa46aff8b68e973e9444ea8f8819b244d0a1
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 21 13:06:37 2021 -0500
+
+    formatted with black
+
+ 1 file changed, 175 insertions(+), 162 deletions(-)
+
+commit 1c6cbc727a0b9afbb1956f215fc60a5462c87e7a
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 21 11:02:17 2021 -0500
+
+    added datafile directive in activecode snippets
+
+ 1 file changed, 2 insertions(+)
+
+commit 6e0675ee9605ef307d8dfbf1a710abbdaa995158
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 21 10:58:12 2021 -0500
+
+    add another activecode
+
+ 1 file changed, 46 insertions(+), 22 deletions(-)
+
+commit 1993744bbd48b1b4ab45cb6477001814adba2d91
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Jun 20 20:40:23 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: angelasofiaremolinagutierrez <angela.remolina.2019@upb.edu.co>
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit cadfdc1aae76bd9134acdb6ae5ca5bb0541d38f9
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Fri Jun 18 22:04:32 2021 -0500
+
+    add activecode
+
+ 1 file changed, 209 insertions(+), 119 deletions(-)
+
+commit c86821ca4434a76467a8446e27d8f883d1159614
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Fri Jun 18 10:50:24 2021 -0500
+
+    Added activecode snippets for exercises
+
+ 1 file changed, 24 insertions(+), 14 deletions(-)
+
+commit 0d9ca32bf00ab03d8aac125618283ec8ea82491c
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Thu Jun 17 22:35:23 2021 -0500
+
+    Set indentation to 4 spaces
+
+ 1 file changed, 67 insertions(+), 62 deletions(-)
+
+commit 873b02cf4430235934f5bda7de3a43f6b8bd7709
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Thu Jun 17 22:05:16 2021 -0500
+
+    Changed IDs
+
+ 1 file changed, 15 insertions(+), 15 deletions(-)
+
+commit ce5c7162f0042da18dba1abb5d9e1c14cca9fe24
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Thu Jun 17 15:13:22 2021 -0500
+
+    Added test file for quiz4
+
+ 1 file changed, 15 insertions(+)
+
+commit 8aa0371b2c111f0cb6a87804e280311ce60ffcc0
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Thu Jun 17 15:08:43 2021 -0500
+
+    Finished quiz4 file
+
+ 1 file changed, 40 insertions(+), 5 deletions(-)
+
+commit c9f714713bf8f8983755a29e0b35e1273aab8056
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Wed Jun 16 22:54:16 2021 -0500
+
+    Implement quiz 4
+
+ 2 files changed, 178 insertions(+)
+
+commit 319c3b791e3f335f1ecbd315a04b148d8293905d
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Wed Jun 16 10:14:12 2021 -0500
+
+    Removed Quiz6 reference from lectures/index
+
+ 1 file changed, 1 deletion(-)
+
+commit 21c908b9fd83abe047db95c4b550425b3e59e8e0
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Wed Jun 16 09:30:30 2021 -0500
+
+    Changed IDs of activecode and codelens
+
+ 1 file changed, 27 insertions(+), 27 deletions(-)
+
+commit 25e0eb41f714dd7aa2b5dc41ad903269d27fc359
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 15 17:24:32 2021 -0500
+
+    Fixed typo
+
+ 1 file changed, 7 insertions(+), 8 deletions(-)
+
+commit cadcc9a50d1c79cda3c381e2f98413a460d51c26
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 15 16:38:37 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: Ybrahin Martinez <martinez.ybrahin@gmail.com>
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit d964fd7a96c2e124b067fc9201006832bedc5c39
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 15 16:37:11 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: Ybrahin Martinez <martinez.ybrahin@gmail.com>
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit 2787b62105fe869f5fc19ee022a034283369e2eb
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 15 13:25:51 2021 -0500
+
+    Transtation and playwright test
+
+ 2 files changed, 126 insertions(+), 82 deletions(-)
+
+commit c4e6984edb9bea4d09abc50ead282926d68c243b
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 15 10:56:33 2021 -0500
+
+    Added subt and correct IDs
+
+ 1 file changed, 19 insertions(+), 9 deletions(-)
+
+commit be845d5150a9d7eb9f69f9ae945a6163e4c911e6
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 15 10:24:34 2021 -0500
+
+    enhanced translation
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit 00edeca5f78b21fe51c394532d940c78565b0f24
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 14 14:08:54 2021 -0500
+
+    Added tests file for quiz 13
+
+ 1 file changed, 18 insertions(+)
+
+commit 2c7156cf6e1ceb91c5928cbf48f148f9b8d63b42
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 14 13:59:20 2021 -0500
+
+    Translated to Spanish and formatted with black
+
+ 1 file changed, 63 insertions(+), 44 deletions(-)
+
+commit ee36ea8c8c5e0c660049e40d4d7e201727888950
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 14 13:10:53 2021 -0500
+
+    Added subt and correct id's to each exercise
+
+ 1 file changed, 11 insertions(+), 3 deletions(-)
+
+commit d5a13c23c190fca7aaa1b346aa14eb6beff204f6
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 14 12:45:43 2021 -0500
+
+    Made test q3_2 less repetitive
+
+ 1 file changed, 23 insertions(+), 58 deletions(-)
+
+commit 69081e6cb266fecc0eeee04772e1a4761bc05444
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Sun Jun 13 15:54:48 2021 -0500
+
+    Python code formatting with balck --line-length 120
+
+ 2 files changed, 37 insertions(+), 121 deletions(-)
+
+commit 50394d1e6ef925dec2cc764ef1a82fc13aa38ec9
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Sun Jun 13 15:46:39 2021 -0500
+
+    spell check
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 5d34d147d1a4f13f4ca1c7ce0eacc02f25605c0d
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Jun 13 14:56:58 2021 -0500
+
+    Commit review suggestion
+    
+    Co-authored-by: Ybrahin Martinez <martinez.ybrahin@gmail.com>
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 47bd976c379d7680e5c1cb2dabf3ba3f798257c0
+Merge: 2db56b2a 52671961
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jun 12 14:21:06 2021 -0500
+
+    Merge branch 'PyAr:master' into Quiz6Update
+
+commit 99d95003fae72a91c5f0b0bc5ce7ad30612fdbaa
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Sat Jun 12 14:17:02 2021 -0500
+
+    fixed typo
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 7c5ed9dac42c22419479f1e138753b53a57c9e1a
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Sat Jun 12 14:12:08 2021 -0500
+
+    little format to plain text
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 8bfc49a7f659ae6be956e3dfc68320e96c87b75c
+Merge: e6689362 52671961
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sat Jun 12 14:04:24 2021 -0500
+
+    Merge branch 'PyAr:master' into fixQuizzes
+
+commit e6689362e499b6a00f9f64780b5c03a68a152bfc
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Sat Jun 12 14:03:47 2021 -0500
+
+    formatting changed to --line-lenght 120 (black)
+
+ 1 file changed, 12 insertions(+), 36 deletions(-)
+
+commit b14022311196188ecedcbd417255750183704fb7
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Fri Jun 11 13:10:27 2021 -0500
+
+    Added test for q11_3
+
+ 1 file changed, 21 insertions(+)
+
+commit 4f74fca85938674c32f59eb1300f526c126a7748
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Fri Jun 11 12:56:59 2021 -0500
+
+    Translated quiz 11 and made it PEP8 compliant
+
+ 1 file changed, 166 insertions(+), 100 deletions(-)
+
+commit 833281374a09e06a2c311e369004ad03348acf4f
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Fri Jun 11 11:03:19 2021 -0500
+
+    Changed single quotes to double quotation marks
+
+ 1 file changed, 9 insertions(+), 10 deletions(-)
+
+commit 964f945d523bade51e212bceddd886bf4b76f619
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Jun 11 10:58:49 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: Ybrahin Martinez <martinez.ybrahin@gmail.com>
+
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+
+commit bf86f834b555d41b967e424474ff8be685fec017
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Fri Jun 11 10:02:51 2021 -0500
+
+    Made python code be PEP8 compliant
+
+ 2 files changed, 237 insertions(+), 91 deletions(-)
+
+commit 488c76bf3260a337dbcc3aee01a341ba4944388a
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Thu Jun 10 17:37:48 2021 -0500
+
+    Made quiz9_1 test with playwright
+
+ 1 file changed, 17 insertions(+)
+
+commit 2db56b2a7f60e213d422622daa7980681710ec41
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jun 10 14:14:10 2021 -0500
+
+    Apply review changes
+
+ 1 file changed, 20 insertions(+), 20 deletions(-)
+
+commit df27c25d41a38b75072ac5f47f7b5ed07f90db48
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Thu Jun 10 14:02:22 2021 -0500
+
+    Apply suggestions from code review
+    
+    Co-authored-by: Ybrahin Martinez <martinez.ybrahin@gmail.com>
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit b080ef14350453969d86bbbf7c770e5c3aa87789
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Thu Jun 10 13:56:42 2021 -0500
+
+    Updated each exercise to follow conventions
+
+ 1 file changed, 365 insertions(+), 224 deletions(-)
+
+commit 0413577b15d17993bcff63347952b9e02a16b37d
+Merge: c134164d 37e46e43
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Wed Jun 9 23:14:53 2021 -0500
+
+    Merge branch 'PyAr:master' into Quiz6Update
+
+commit c134164d16f772e15be3548018b0b17b7dc69159
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Wed Jun 9 12:42:02 2021 -0500
+
+    Refactor quiz 6 and added playwright test
+
+ 2 files changed, 362 insertions(+), 202 deletions(-)
+
+commit b1518e3e068158379b07a0f32bc0892092139bc5
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:15:39 2021 -0500
+
+    revert changes to pass playwright test.
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit 952bd5fcb4cefc77b70797baebf8444fdde3548c
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:05:17 2021 -0500
+
+    Update tests/test_quiz1.py
+    
+    Co-authored-by: Emmanuel Arias <eamanu@yaerobi.com>
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 98e1e63e29d150e05ffd723e188e62cb32fad58e
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:05:06 2021 -0500
+
+    Update tests/test_quiz1.py
+    
+    Co-authored-by: Emmanuel Arias <eamanu@yaerobi.com>
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit f63eabf0cd56ce8d546e4f9c740242f65a073bae
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:04:43 2021 -0500
+
+    Update tests/test_quiz1.py
+    
+    Co-authored-by: Emmanuel Arias <eamanu@yaerobi.com>
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 984f1e2d7c2e387305114ebd0bffe78f65239de8
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:04:33 2021 -0500
+
+    Update _sources/quiz/Quiz3.rst
+    
+    Co-authored-by: Emmanuel Arias <eamanu@yaerobi.com>
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b8907f9c96fa3908dbf7b39d0f18aa5103b3111d
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:04:23 2021 -0500
+
+    Update _sources/quiz/Quiz3.rst
+    
+    Co-authored-by: Emmanuel Arias <eamanu@yaerobi.com>
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 5fa06462ee3c3ae3f04b6f0c9d9e0363d26e46f7
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:04:15 2021 -0500
+
+    Update _sources/quiz/Quiz3.rst
+    
+    Co-authored-by: Emmanuel Arias <eamanu@yaerobi.com>
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 9453eb5a5fa7f16ce761ea73894724bb82204393
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 21:03:46 2021 -0500
+
+    Update tests/test_quiz1.py
+    
+    Co-authored-by: Emmanuel Arias <eamanu@yaerobi.com>
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit b387054eb240d6eaacf9087cd52a4236f4e769e3
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 8 18:53:02 2021 -0500
+
+    Underscore notation for functions and used python code for test locators
+
+ 3 files changed, 89 insertions(+), 56 deletions(-)
+
+commit 3e4f05d9b2d0081547002a28c8cb4c4e931f440d
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue Jun 8 18:07:13 2021 -0500
+
+    Update pull_request_template.md
+    
+    Added 1 check for function definition
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit 126861724c6393c862fee81c18816debcb8c36ed
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 8 15:45:40 2021 -0500
+
+    Modified quiz 9 and added playwright test
+
+ 4 files changed, 112 insertions(+), 52 deletions(-)
+
+commit 4167ab1c091479a2166265c438cdcc409451d408
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Tue Jun 8 09:10:35 2021 -0500
+
+    Fixxed error in ex 6
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 576a83c146bc312c8327ac56516bdd49bf8c1de7
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 7 16:15:41 2021 -0500
+
+    Removed unnecessary slash
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 68dd88bd02b3746a35cc5d9a687f0f3778ec6726
+Merge: 6cb06d45 62c86ca4
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Jun 7 16:12:20 2021 -0500
+
+    Merge branch 'PyAr:master' into fixQuizzes
+
+commit 6cb06d45ec135bc275e3a41e2e7d88e42dc46637
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Mon Jun 7 15:54:54 2021 -0500
+
+    Added subtitles to exercises
+
+ 1 file changed, 37 insertions(+), 18 deletions(-)
+
+commit 58badc6406cbd1898bc3aa8d128ca2ec9acc2309
+Author: LeonCumpli <cumplileo@gmail.com>
+Date:   Thu Jun 3 13:21:45 2021 -0500
+
+    added test for quiz1 ex 1
+
+ 1 file changed, 12 insertions(+)
+
+commit ecd30fc8e9691e5cd662a48c1fcc5d4d66839868
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue May 25 11:32:22 2021 -0500
+
+    rst formatting
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+commit ff89df26c3ababa187147a57a82a295e27a48212
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Tue May 25 11:29:21 2021 -0500
+
+    Update Quiz9.rst
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit 9cc71965308910d897add5f730b263545f030d86
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon May 24 18:22:39 2021 -0500
+
+    Corrected minor errors
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+commit f08e6c556e7651fb8ce6cecd4d30cf6f48f61a3f
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon May 24 18:15:25 2021 -0500
+
+    Update Quiz9.rst
+
+ 1 file changed, 24 insertions(+), 24 deletions(-)
+
+commit d67915f5975cce2b383a68fa0d0589180c1d5fe0
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon May 24 18:09:24 2021 -0500
+
+    Errase a parenthesis in middle_way exercise
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit dde5a6a14c9762ac74082c23d9ddf9959ece9183
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon May 24 18:00:02 2021 -0500
+
+    Fix mayor_extremo exercise
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 7cde3b5c647b867907282fb2906477589e5baccd
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon May 24 10:54:01 2021 -0500
+
+    typo
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 87b5b7955856b1194bd7220b5fb1e24ae9b9c078
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Apr 2 18:55:55 2021 -0600
+
+    Update TWP18.rst
+    
+    Little indentation changes
+
+ 1 file changed, 17 insertions(+), 13 deletions(-)
+
+commit c1514ac85dff1b628ba96b2ff071578972af96bc
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Fri Apr 2 18:37:07 2021 -0600
+
+    Fix Quiz9
+    
+    Fix exercises.
+    Enhanced translation from Portuguese to Spanish.
+    Enhanced instructions of the exercises.
+
+ 1 file changed, 111 insertions(+), 109 deletions(-)
+
+commit f0b0e878a9192a19f3ad1db23e3d1fcbfa415910
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Mon Mar 29 11:15:30 2021 -0600
+
+    Update tests in final activity
+    
+    Added 3 more tests in the final activity.
+
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+
+commit d7d16d3dd8d5d53d5cc3b7ae9f5ed111c95393a0
+Author: Leonardo Cumplido <cumplileo@gmail.com>
+Date:   Sun Mar 28 22:52:02 2021 -0600
+
+    Added practice exercises with unittest
+    
+    I added one new exercise with unittest, and integrated to the final exercise unittest as well. Also, I improved the instructions for the final exercise.
+
+ 1 file changed, 93 insertions(+), 63 deletions(-)
